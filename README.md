@@ -1,1 +1,1 @@
-# aquabot firmware and softwate
+# Aquabot firmware and software
